@@ -1,0 +1,19 @@
+.pantalla{
+    height: 200px;
+    width: 500px;
+    border-style: groove;
+}
+.teclado{
+    float: left;
+    text-align: left;
+    width: 400px;
+}
+.teclado table {
+    margin: 0 auto;
+    text-align: left;
+}
+.espacio{
+    width:120px;
+    height: 20px;
+}
+
